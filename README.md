@@ -1,3 +1,6 @@
+![charitywater_logo_horizontal_BlackText (2)](https://github.com/user-attachments/assets/a193bab0-36cb-4517-afc6-6325415391b0)
+![jerrycan-yellow png](https://github.com/user-attachments/assets/df036f77-c9df-4833-a5b4-42081cd5f96d)
+![your-hero-image jpg](https://github.com/user-attachments/assets/0f97dd05-bf22-477c-bd7f-3e1c4911ca7d)
 # Design-Landing-Page
 Week 2 Project: Build the charity: water Landing Page
 To get started, create a new Codespace from this repo.
